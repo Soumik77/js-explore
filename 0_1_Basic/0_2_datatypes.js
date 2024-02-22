@@ -17,7 +17,6 @@ let isLoggedIn = false
 //undefined =>vale assign hoy 
 //symbol => unique
 
-
 //object
 console.log(typeof "soumik")
 console.log(typeof null)
