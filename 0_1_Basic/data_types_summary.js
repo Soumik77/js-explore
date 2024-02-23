@@ -34,3 +34,27 @@ console.log(typeof(outsideTemp))
 console.log(typeof(myFunc))
 console.log(typeof(heroes))
 console.log(typeof(anotherId))
+
+
+
+//  Stack (primimitive) and Heap Memory(Non Primitive type) //
+let myYT = "soumik.com"
+let anotherName = myYT
+anotherName = "megha"
+console.log(anotherName)
+console.log(myYT)
+
+let userOne ={
+    email: "user@google.com",
+    name : "soumikdatta"
+}
+
+let userTwo = userOne 
+userTwo.email = "maria@gmail.com"
+userTwo.name = "MariaChowdhury"
+
+console.log(userOne)
+
+
+
+
