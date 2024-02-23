@@ -6,4 +6,4 @@ console.log(null==0);
 console.log(null>=0);
 
 //strictly check 
-console.log(3===3);
+console.log(3===3); 
